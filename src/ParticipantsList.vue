@@ -1,4 +1,4 @@
-<template>
+<<template>
   <div>
     <ol class="list-group">
       <li v-for="person in list" class="list-group-item">
